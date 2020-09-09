@@ -1,0 +1,7 @@
+$ ./3-listfiles
+total 20
+-rw-rw-r-- 1 vagrant vagrant   96 Sep  9 17:40 0-current_working_directory
+-rw-rw-r-- 1 vagrant vagrant   53 Sep  9 17:52 1-listit
+-rw-rw-r-- 1 vagrant vagrant    0 Sep  9 17:53 2-bring_me_home
+-rw-rw-r-- 1 vagrant vagrant    0 Sep  9 18:10 3-listfiles
+$
