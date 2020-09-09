@@ -4,4 +4,4 @@ vagrant@vagrant-ubuntu-trusty-64:/tmp$ pwd
 vagrant@vagrant-ubuntu-trusty-64:/tmp$ cd
 vagrant@vagrant-ubuntu-trusty-64:~$ pwd
 /home/vagrant
-vagrant@vagrant-ubuntu-trusty-64:~
+vagrant@vagrant-ubuntu-trusty-64:~$
